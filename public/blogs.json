@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Top 10 ES6 Features for Beginners",
+    "description": "Arrow function, destructuring, template literal theke shuru kore modules porjonto, ES6 er sobcheye gurutthopurno 10 ti feature practical example shoho sohoj bhashay shikhe nao. Modern JavaScript likhte gele ei basics gulo must.",
+    "author_img": "https://i.pravatar.cc/150?img=1",
+    "author": "Rahim Ahmed",
+    "posted_date": "2026-10-01",
+    "reading_time": "5",
+    "hashtags": ["beginners", "es6"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Understanding Let and Const in JavaScript",
+    "description": "var, let ar const er moddhe pharthokko ki, scope ar hoisting kibhabe kaj kore, ar kothay kon ta use kora uchit. Common bug gulo avoid korar clear guideline pabe ei lekhay.",
+    "author_img": "https://i.pravatar.cc/150?img=2",
+    "author": "Nusrat Jahan",
+    "posted_date": "2026-10-02",
+    "reading_time": "4",
+    "hashtags": ["javascript", "es6"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "JavaScript Arrow Functions Made Easy",
+    "description": "Chhoto, clean ar readable code likhar jonno arrow function er syntax, implicit return ar this keyword er behavior step by step bujhe nao. Regular function er sathe tulona shoho.",
+    "author_img": "https://i.pravatar.cc/150?img=3",
+    "author": "Tanvir Hasan",
+    "posted_date": "2026-10-03",
+    "reading_time": "6",
+    "hashtags": ["arrowfunctions", "javascript"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Learn Template Literals with Examples",
+    "description": "String concatenation er jhamela chere backtick diye dynamic string, multi-line text ar expression embed korar shohoj poddhoti. Real project er example shoho dekhano hoyeche.",
+    "author_img": "https://i.pravatar.cc/150?img=4",
+    "author": "Sadia Islam",
+    "posted_date": "2026-10-04",
+    "reading_time": "3",
+    "hashtags": ["templateliterals", "es6"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Destructuring in JavaScript for Beginners",
+    "description": "Array ar object theke value gulo ek line eber kore anar technique. Default value, nested destructuring ar function parameter e use korar practical tips shikhbe.",
+    "author_img": "https://i.pravatar.cc/150?img=5",
+    "author": "Fahim Rahman",
+    "posted_date": "2026-10-05",
+    "reading_time": "7",
+    "hashtags": ["destructuring", "javascript"]
+  },
+  {
+    "id": 6,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Spread and Rest Operators Explained",
+    "description": "Dekhte ek rokom (...) holeo spread ar rest er kaj alada. Array copy, object merge ar flexible function parameter handle korar jonno ei duita operator kibhabe use korba, ta bujhe nao.",
+    "author_img": "https://i.pravatar.cc/150?img=6",
+    "author": "Maliha Chowdhury",
+    "posted_date": "2026-10-06",
+    "reading_time": "8",
+    "hashtags": ["spreadoperator", "restoperator"]
+  },
+  {
+    "id": 7,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Master JavaScript Default Parameters",
+    "description": "Function e argument na dile undefined er jhamela theke mukti pete default parameter use koro. Cleaner function design ar safer code likhar best practice gulo jano.",
+    "author_img": "https://i.pravatar.cc/150?img=7",
+    "author": "Arif Hossain",
+    "posted_date": "2026-10-07",
+    "reading_time": "4",
+    "hashtags": ["defaultparameters", "es6"]
+  },
+  {
+    "id": 8,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "JavaScript Promises: A Beginner's Guide",
+    "description": "Asynchronous programming er mul dharona: Promise er state, then, catch, finally ar async/await. API call handle korar real-world pattern shoho shundor bhabe bujhano hoyeche.",
+    "author_img": "https://i.pravatar.cc/150?img=8",
+    "author": "Sumaiya Akter",
+    "posted_date": "2026-10-08",
+    "reading_time": "9",
+    "hashtags": ["promises", "javascript"]
+  },
+  {
+    "id": 9,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "ES6 Modules: Import and Export Explained",
+    "description": "Code ke alada file e bhag kore organized rakhar upay. Named export, default export ar import er shothik niyom shikhe bar bar ekii code likha bondho koro.",
+    "author_img": "https://i.pravatar.cc/150?img=9",
+    "author": "Sakib Khan",
+    "posted_date": "2026-10-09",
+    "reading_time": "6",
+    "hashtags": ["modules", "es6"]
+  },
+  {
+    "id": 10,
+    "cover": "https://i.postimg.cc/fL1Q6vgV/rahul-mishra-XXMA-8f-BB-g-unsplash.jpg",
+    "title": "Learn JavaScript Classes and Inheritance",
+    "description": "Class, constructor, method, extends ar super keyword niye OOP er basic theke inheritance porjonto complete guide. Scalable ar maintainable code structure banate shahajjo korbe.",
+    "author_img": "https://i.pravatar.cc/150?img=10",
+    "author": "Farzana Noor",
+    "posted_date": "2026-10-10",
+    "reading_time": "10",
+    "hashtags": ["classes", "beginners"]
+  }
+]
