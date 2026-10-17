@@ -38,7 +38,7 @@ const Sidebar = ({ readingTime, bookmarks, removeBookmark }) => {
 
                     {bookmarks.length === 0 ? (
                         <p className="text-sm opacity-60 py-4 text-center">
-                            Kono bookmark nai. Kono blog bookmark korle ekhane dekhabe.
+                            No bookmarks yet. Any blog you bookmark will appear here.
                         </p>
                     ) : (
                         <ul className="space-y-2 max-h-80 overflow-y-auto pr-1">
